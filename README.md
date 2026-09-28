@@ -42,24 +42,32 @@
 <table align="center">
 <tr>
 
-<td align="center" width="180">
+<td align="center" width="25%">
 <h2>🎓</h2>
 <strong>B.Tech CSE</strong>
+<br>
+<sub>Computer Science</sub>
 </td>
 
-<td align="center" width="180">
-<h2>💻</h2>
-<strong>Full-Stack</strong>
-</td>
-
-<td align="center" width="180">
+<td align="center" width="25%">
 <h2>⚛️</h2>
 <strong>MERN Stack</strong>
+<br>
+<sub>Full-Stack Development</sub>
 </td>
 
-<td align="center" width="180">
+<td align="center" width="25%">
+<h2>☕</h2>
+<strong>Java</strong>
+<br>
+<sub>Programming</sub>
+</td>
+
+<td align="center" width="25%">
 <h2>🚀</h2>
-<strong>Building</strong>
+<strong>Builder</strong>
+<br>
+<sub>Learn • Build • Ship</sub>
 </td>
 
 </tr>
@@ -78,20 +86,20 @@
 
 ### Hello there! 👋
 
-I'm a **Computer Science & Engineering student** interested in building practical software and solving real-world problems through technology.
+I'm a **Computer Science & Engineering student** interested in software development and building practical applications that solve real-world problems.
 
-My main focus is **full-stack web development**, where I work across the frontend, backend, database and deployment layers.
+My primary focus is **full-stack development**, where I enjoy working across the frontend, backend, databases and deployment.
 
-I learn by **building projects, debugging problems, understanding how things work and continuously improving my solutions.**
+I believe the best way to learn development is by **building projects, facing real bugs, understanding the problem and improving the solution.**
 
-### What I work with
+### What I enjoy working on
 
-- ⚛️ MERN Stack Development
+- ⚛️ Full-Stack Web Applications
+- 🌐 Modern Web Technologies
 - 🖥️ Backend & REST APIs
-- 🗄️ Database-driven applications
-- ☕ Java & programming
-- 🌐 Web technologies
-- ☁️ Deployment & development tools
+- 🗄️ Database-driven Applications
+- ☕ Java & Programming
+- 🚀 Building and Deploying Projects
 
 </td>
 
@@ -101,51 +109,48 @@ I learn by **building projects, debugging problems, understanding how things wor
 
 <br>
 
-<table>
+<table width="100%">
+
 <tr>
 <td align="center">
-
-💻<br>
-<strong>Full-Stack Development</strong>
-
+💻 <strong>Full-Stack</strong>
+<br>
+<sub>Frontend + Backend</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
-⚛️<br>
-<strong>MERN Applications</strong>
-
+⚛️ <strong>MERN</strong>
+<br>
+<sub>React + Node + Express + MongoDB</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
-🔗<br>
-<strong>REST APIs</strong>
-
+🔗 <strong>APIs</strong>
+<br>
+<sub>REST & Authentication</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
-🗄️<br>
-<strong>Database Systems</strong>
-
+🗄️ <strong>Databases</strong>
+<br>
+<sub>MongoDB + SQL</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-
-🚀<br>
-<strong>Project Deployment</strong>
-
+☁️ <strong>Deployment</strong>
+<br>
+<sub>Build → Ship → Improve</sub>
 </td>
 </tr>
+
 </table>
 
 </td>
@@ -160,118 +165,96 @@ I learn by **building projects, debugging problems, understanding how things wor
 <table>
 <tr>
 
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
-### 💻 Languages
+<h3 align="center">💻 Languages</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,c" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,c" />
 </p>
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
-</p>
-
-### 🔧 Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,npm,vercel" />
-</p>
-
-</td>
-
-<td width="45%" valign="top">
-
-<h3 align="center">🧩 What I Build</h3>
 
 <br>
 
-<table>
+<h3 align="center">🎨 Frontend</h3>
 
-<tr>
-<td align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
 
-### 🌐 Web Applications
+<br>
 
-Responsive and practical web experiences.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### ⚛️ Full-Stack Apps
-
-Frontend + Backend + Database.
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🔗 REST APIs
-
-Authentication, business logic & data handling.
+<p align="center">
+  <strong>React</strong>
+  &nbsp;•&nbsp;
+  <strong>HTML</strong>
+  &nbsp;•&nbsp;
+  <strong>CSS</strong>
+  &nbsp;•&nbsp;
+  <strong>Tailwind CSS</strong>
+</p>
 
 </td>
-</tr>
 
-<tr>
-<td align="center">
+<td width="50%" valign="top">
 
-### 🗄️ Database Systems
+<h3 align="center">⚙️ Backend</h3>
 
-MongoDB, MySQL & SQLite applications.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+<br>
+
+<h3 align="center">🗄️ Database</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+</p>
+
+<br>
+
+<h3 align="center">🔧 Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,npm,vercel" />
+</p>
 
 </td>
+
 </tr>
-
-<tr>
-<td align="center">
-
-### ☁️ Deployment
-
-Turning projects into accessible applications.
-
-</td>
-</tr>
-
 </table>
 
 <br>
 
-<h3 align="center">🚀 Development Flow</h3>
+<table align="center">
+<tr>
 
-<p align="center">
+<td align="center" width="25%">
+<h3>🌐</h3>
+<strong>Web Apps</strong>
+<br>
+<sub>Responsive & practical applications</sub>
+</td>
 
-<code>Frontend</code>
-<br>↓<br>
-<code>Backend</code>
-<br>↓<br>
-<code>Database</code>
-<br>↓<br>
-<code>API</code>
-<br>↓<br>
-<code>Deployment</code>
+<td align="center" width="25%">
+<h3>🔗</h3>
+<strong>REST APIs</strong>
+<br>
+<sub>Backend services & integrations</sub>
+</td>
 
-</p>
+<td align="center" width="25%">
+<h3>🗄️</h3>
+<strong>Data</strong>
+<br>
+<sub>Database-driven applications</sub>
+</td>
 
+<td align="center" width="25%">
+<h3>☁️</h3>
+<strong>Deployment</strong>
+<br>
+<sub>From local development to live</sub>
 </td>
 
 </tr>
@@ -293,31 +276,29 @@ Turning projects into accessible applications.
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-A full-stack pharmacy management application built using the **MERN stack**.
+A full-stack **MERN pharmacy management application** designed to handle medicines, users, prescriptions and orders.
 
-### Features
+### Highlights
 
-- 🔐 Authentication & authorization
-- 💊 Medicine management
-- 🔎 Medicine search
-- 🛒 Order management
-- 📄 Prescription upload
-- 👨‍💼 Admin functionality
+- 🔐 Authentication & Authorization
+- 💊 Medicine Management
+- 🔎 Medicine Search & Browsing
+- 🛒 Order Management
+- 📄 Prescription Upload
+- 👨‍💼 Admin Functionality
 - 🔗 RESTful APIs
-- ☁️ Deployed application
+- ☁️ Deployed Application
 
 <p align="center">
-<a href="https://medkart-online-pharmacy-management.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit-58A6FF?style=for-the-badge" />
-</a>
+  <a href="https://medkart-online-pharmacy-management.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-58A6FF?style=for-the-badge" />
+  </a>
 </p>
 
 </td>
@@ -331,28 +312,26 @@ A full-stack pharmacy management application built using the **MERN stack**.
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-A lightweight and responsive application for managing everyday tasks.
+A lightweight application for managing everyday tasks with a simple and responsive interface.
 
-### Features
+### Highlights
 
-- ➕ Add tasks
-- ✔️ Mark tasks completed
-- 🗑️ Delete tasks
-- 📋 Manage daily activities
-- 📱 Responsive interface
-- ⚡ Simple and lightweight UI
+- ➕ Add Tasks
+- ✔️ Mark Tasks Complete
+- 🗑️ Delete Tasks
+- 📋 Manage Daily Activities
+- 📱 Responsive Interface
+- ⚡ Lightweight UI
 
 <p align="center">
-<a href="https://github.com/abhishekyadav77">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
+  <a href="https://github.com/abhishekyadav77">
+    <img src="https://img.shields.io/badge/💻%20VIEW%20ON%20GITHUB-181717?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 </td>
@@ -367,141 +346,145 @@ A lightweight and responsive application for managing everyday tasks.
 <table align="center">
 <tr>
 
-<td align="center" width="150">
-
-### 01
-<br>
+<td align="center" width="16%">
+<h2>01</h2>
 💡
 <br>
 <strong>Idea</strong>
-
+<br>
+<sub>Find the problem</sub>
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="150">
-
-### 02
-<br>
+<td align="center" width="16%">
+<h2>02</h2>
 📋
 <br>
 <strong>Plan</strong>
-
+<br>
+<sub>Design the solution</sub>
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="150">
-
-### 03
-<br>
+<td align="center" width="16%">
+<h2>03</h2>
 💻
 <br>
 <strong>Build</strong>
-
+<br>
+<sub>Write the code</sub>
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="150">
-
-### 04
-<br>
+<td align="center" width="16%">
+<h2>04</h2>
 🐛
 <br>
 <strong>Debug</strong>
-
+<br>
+<sub>Fix the problems</sub>
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="150">
-
-### 05
-<br>
+<td align="center" width="16%">
+<h2>05</h2>
 🚀
 <br>
 <strong>Deploy</strong>
-
+<br>
+<sub>Ship the project</sub>
 </td>
 
 <td align="center">→</td>
 
-<td align="center" width="150">
-
-### 06
-<br>
+<td align="center" width="16%">
+<h2>06</h2>
 📈
 <br>
 <strong>Improve</strong>
-
+<br>
+<sub>Keep learning</sub>
 </td>
 
 </tr>
 </table>
 
-<br>
-
-<p align="center">
-<strong>Build → Learn → Debug → Improve → Repeat 🔁</strong>
-</p>
-
 ---
 
-# 🌱 Currently Learning
+# 🌱 Learning & Goals
 
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### ⚛️ MERN
+<h2>⚛️</h2>
+
+<h3>Currently Learning</h3>
+
+<strong>Advanced MERN</strong>
+
+<br><br>
 
 React  
 Node.js  
 Express.js  
 MongoDB
 
+<br><br>
+
+<code>Frontend → Backend → Database</code>
+
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### 🖥️ Backend
+<h2>🖥️</h2>
+
+<h3>Development Focus</h3>
+
+<strong>Backend Engineering</strong>
+
+<br><br>
 
 REST APIs  
 Authentication  
-Database Design
+Database Design  
+API Integration
+
+<br><br>
+
+<code>Build → Test → Improve</code>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
-### ☕ Java
+<h2>🎯</h2>
 
-Programming  
-Problem Solving  
-Clean Code
+<h3>My Goals</h3>
+
+<strong>Become a Strong Software Developer</strong>
+
+<br><br>
+
+Build practical applications  
+Strengthen full-stack skills  
+Improve backend knowledge  
+Deploy real-world projects
+
+<br><br>
+
+<code>Learn → Build → Ship 🚀</code>
 
 </td>
 
 </tr>
 </table>
-
----
-
-# 🎯 Goals
-
-<p align="center">
-
-| Focus | Direction |
-| :--- | :--- |
-| 💻 Development | Build practical and scalable applications |
-| ⚛️ Full Stack | Strengthen MERN development |
-| 🖥️ Backend | Improve APIs, authentication & architecture |
-| ☁️ Deployment | Build and ship production-ready projects |
-| 📚 Learning | Keep improving through real-world development |
-
-</p>
 
 ---
 
@@ -515,18 +498,11 @@ Clean Code
 </p>
 
 <p align="center">
-  <img
-    src="https://img.shields.io/github/followers/abhishekyadav77?style=for-the-badge&logo=github&label=FOLLOWERS"
-    alt="GitHub Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/abhishekyadav77?style=for-the-badge&logo=github&label=TOTAL%20STARS"
-    alt="GitHub Stars"
-  />
-  <img
-    src="https://img.shields.io/github/repo-size/abhishekyadav77/abhishekyadav77?style=for-the-badge&label=PROFILE%20REPO"
-    alt="Profile Repository"
-  />
+
+<img src="https://img.shields.io/github/followers/abhishekyadav77?style=for-the-badge&logo=github&label=FOLLOWERS" />
+
+<img src="https://img.shields.io/github/stars/abhishekyadav77?style=for-the-badge&logo=github&label=STARS" />
+
 </p>
 
 ---
@@ -543,7 +519,7 @@ Clean Code
 </p>
 
 <p align="center">
-<sub>Every contribution tells a part of the journey.</sub>
+  <sub>Every contribution tells a part of the journey.</sub>
 </p>
 
 ---
@@ -555,13 +531,17 @@ Clean Code
 
 <td width="55%" valign="top">
 
-### Build → Learn → Improve
+<h3>Build → Learn → Improve</h3>
 
 I believe the best way to learn software development is by actually building things.
 
-Projects teach you how to deal with bugs, design decisions, APIs, databases, deployment and all the unexpected problems that tutorials cannot fully prepare you for.
+Projects teach you how to deal with bugs, design decisions, APIs, databases, deployment and the unexpected problems that come with real development.
 
-> **Build it. Break it. Understand it. Improve it.**
+<br>
+
+<blockquote>
+<strong>Build it. Break it. Understand it. Improve it.</strong>
+</blockquote>
 
 </td>
 
@@ -581,93 +561,3 @@ Projects teach you how to deal with bugs, design decisions, APIs, databases, dep
       IMPROVE
          ↓
       REPEAT 🔁
-```
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📄 Resume
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Want to know more about me?
-
-<br>
-
-<a href="./Abhishek_Kumar_Yadav_Resume.pdf">
-
-<img
-src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"
-/>
-
-</a>
-
-<br><br>
-
-<sub>Education • Projects • Skills • Development</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-# 👀 Visitors
-
-<p align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"
-alt="Profile Views"
-/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/abhishekyadav77">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/abhishek-yadav-mzp/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abhishekyadavwork98@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 👋 Thanks for visiting!
-
-**Building today • Learning every day • Improving with every project 🚀**
-
-<br><br>
-
-<code>while(alive) { build(); learn(); improve(); }</code>
-
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"
-    width="100%"
-  />
-</p>
