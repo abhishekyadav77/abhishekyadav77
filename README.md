@@ -178,7 +178,9 @@ admin functionality.
 React • Node.js • Express.js • MongoDB • JWT
 </p>
 
-<p><b>✨ Highlights</b></p>
+<p>
+<b>✨ Highlights</b>
+</p>
 
 <ul>
 <li>🔐 Authentication & Authorization</li>
@@ -216,7 +218,9 @@ organizing daily tasks and managing personal activities.
 HTML • CSS • JavaScript
 </p>
 
-<p><b>✨ Highlights</b></p>
+<p>
+<b>✨ Highlights</b>
+</p>
 
 <ul>
 <li>➕ Add Tasks</li>
@@ -303,20 +307,16 @@ HTML • CSS • JavaScript
 </p>
 
 
-<!-- ================= PHILOSOPHY ================= -->
+<!-- ================= DEVELOPER PHILOSOPHY ================= -->
 
 <h2>💡 Developer Philosophy</h2>
 
 <p align="center">
+  <b>Build → Learn → Break → Fix → Understand → Improve → Repeat 🔁</b>
+</p>
 
-<b>Build → Learn → Break → Fix → Understand → Improve → Repeat 🔁</b>
-
-<br><br>
-
-<i>
-"The best way to learn development is to build."
-</i>
-
+<p align="center">
+  <i>"The best way to learn development is to build."</i>
 </p>
 
 
@@ -325,11 +325,9 @@ HTML • CSS • JavaScript
 <h2>📄 Resume</h2>
 
 <p align="center">
-
-<a href="./Abhishek_Kumar_Yadav_Resume.pdf">
-<img src="https://img.shields.io/badge/📥%20Download%20Resume-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
+  <a href="./Abhishek_Kumar_Yadav_Resume.pdf">
+    <img src="https://img.shields.io/badge/📥%20Download%20Resume-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
 </p>
 
 
@@ -358,6 +356,13 @@ HTML • CSS • JavaScript
 </p>
 
 
+<!-- ================= BUILD • LEARN • IMPROVE ================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=while(alive)+%7B;build();+learn();+improve();;%7D"/>
+</p>
+
+
 <!-- ================= THANK YOU ================= -->
 
 <h2 align="center">👋 Thanks for visiting my profile!</h2>
@@ -366,13 +371,9 @@ HTML • CSS • JavaScript
   <i>Keep building. Keep learning. Keep improving.</i>
 </p>
 
+
+<!-- ================= FOOTER ================= -->
+
 <p align="center">
-
-```text
-while(alive) {
-    build();
-    learn();
-    improve();
-}
-
-</p> <!-- ================= FOOTER ================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"/> </p> ```
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65"/>
+</p>
