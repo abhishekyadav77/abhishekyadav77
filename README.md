@@ -82,7 +82,7 @@
 <table>
 <tr>
 
-<td width="58%" valign="top">
+<td width="60%" valign="top">
 
 ### Hello there! 👋
 
@@ -103,11 +103,9 @@ I believe the best way to learn development is by **building projects, facing re
 
 </td>
 
-<td width="42%" valign="top">
+<td width="40%" valign="top">
 
 <h3 align="center">⚡ Developer Snapshot</h3>
-
-<br>
 
 <table width="100%">
 
@@ -129,9 +127,9 @@ I believe the best way to learn development is by **building projects, facing re
 
 <tr>
 <td align="center">
-🔗 <strong>APIs</strong>
+🔗 <strong>REST APIs</strong>
 <br>
-<sub>REST & Authentication</sub>
+<sub>Backend services & integrations</sub>
 </td>
 </tr>
 
@@ -147,7 +145,7 @@ I believe the best way to learn development is by **building projects, facing re
 <td align="center">
 ☁️ <strong>Deployment</strong>
 <br>
-<sub>Build → Ship → Improve</sub>
+<sub>Build • Ship • Improve</sub>
 </td>
 </tr>
 
@@ -162,7 +160,7 @@ I believe the best way to learn development is by **building projects, facing re
 
 # ⚡ Tech Stack
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -173,24 +171,14 @@ I believe the best way to learn development is by **building projects, facing re
   <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp,c" />
 </p>
 
-<br>
-
 <h3 align="center">🎨 Frontend</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-<br>
-
 <p align="center">
-  <strong>React</strong>
-  &nbsp;•&nbsp;
-  <strong>HTML</strong>
-  &nbsp;•&nbsp;
-  <strong>CSS</strong>
-  &nbsp;•&nbsp;
-  <strong>Tailwind CSS</strong>
+  <sub>React • HTML • CSS • Tailwind CSS</sub>
 </p>
 
 </td>
@@ -203,15 +191,11 @@ I believe the best way to learn development is by **building projects, facing re
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-<br>
-
 <h3 align="center">🗄️ Database</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
-
-<br>
 
 <h3 align="center">🔧 Tools</h3>
 
@@ -233,28 +217,28 @@ I believe the best way to learn development is by **building projects, facing re
 <h3>🌐</h3>
 <strong>Web Apps</strong>
 <br>
-<sub>Responsive & practical applications</sub>
+<sub>Responsive & practical</sub>
 </td>
 
 <td align="center" width="25%">
 <h3>🔗</h3>
 <strong>REST APIs</strong>
 <br>
-<sub>Backend services & integrations</sub>
+<sub>Backend & integrations</sub>
 </td>
 
 <td align="center" width="25%">
 <h3>🗄️</h3>
-<strong>Data</strong>
+<strong>Database</strong>
 <br>
-<sub>Database-driven applications</sub>
+<sub>Data-driven applications</sub>
 </td>
 
 <td align="center" width="25%">
 <h3>☁️</h3>
 <strong>Deployment</strong>
 <br>
-<sub>From local development to live</sub>
+<sub>Local → Production</sub>
 </td>
 
 </tr>
@@ -264,7 +248,7 @@ I believe the best way to learn development is by **building projects, facing re
 
 # 🚀 Featured Projects
 
-<table>
+<table align="center">
 <tr>
 
 <td width="50%" valign="top">
@@ -282,9 +266,11 @@ I believe the best way to learn development is by **building projects, facing re
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-A full-stack **MERN pharmacy management application** designed to handle medicines, users, prescriptions and orders.
+<p>
+A full-stack <strong>MERN pharmacy management application</strong> designed to manage medicines, users, prescriptions and orders.
+</p>
 
-### Highlights
+<strong>Highlights</strong>
 
 - 🔐 Authentication & Authorization
 - 💊 Medicine Management
@@ -317,9 +303,11 @@ A full-stack **MERN pharmacy management application** designed to handle medicin
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
+<p>
 A lightweight application for managing everyday tasks with a simple and responsive interface.
+</p>
 
-### Highlights
+<strong>Highlights</strong>
 
 - ➕ Add Tasks
 - ✔️ Mark Tasks Complete
@@ -415,71 +403,79 @@ A lightweight application for managing everyday tasks with a simple and responsi
 
 ---
 
-# 🌱 Learning & Goals
+# 🌱 Currently Learning & 🎯 Goals
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h2>⚛️</h2>
+<h2 align="center">🌱 Currently Learning</h2>
 
-<h3>Currently Learning</h3>
+<p align="center">
+<strong>Advanced MERN & Backend Development</strong>
+</p>
 
-<strong>Advanced MERN</strong>
+<table width="100%">
 
-<br><br>
+<tr>
+<td align="center">⚛️ React</td>
+<td align="center">🟢 Node.js</td>
+</tr>
 
-React  
-Node.js  
-Express.js  
-MongoDB
+<tr>
+<td align="center">🚂 Express.js</td>
+<td align="center">🍃 MongoDB</td>
+</tr>
 
-<br><br>
+<tr>
+<td align="center">🔗 REST APIs</td>
+<td align="center">🔐 Authentication</td>
+</tr>
 
-<code>Frontend → Backend → Database</code>
+</table>
 
-</td>
-
-<td align="center" width="33%" valign="top">
-
-<h2>🖥️</h2>
-
-<h3>Development Focus</h3>
-
-<strong>Backend Engineering</strong>
-
-<br><br>
-
-REST APIs  
-Authentication  
-Database Design  
-API Integration
-
-<br><br>
-
-<code>Build → Test → Improve</code>
+<p align="center">
+<code>Frontend → Backend → Database → Deployment</code>
+</p>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td width="50%" valign="top">
 
-<h2>🎯</h2>
+<h2 align="center">🎯 Goals</h2>
 
-<h3>My Goals</h3>
-
+<p align="center">
 <strong>Become a Strong Software Developer</strong>
+</p>
 
-<br><br>
+<table width="100%">
 
-Build practical applications  
-Strengthen full-stack skills  
-Improve backend knowledge  
-Deploy real-world projects
+<tr>
+<td>🚀 Build practical applications</td>
+</tr>
 
-<br><br>
+<tr>
+<td>💻 Strengthen full-stack skills</td>
+</tr>
 
-<code>Learn → Build → Ship 🚀</code>
+<tr>
+<td>⚙️ Improve backend engineering</td>
+</tr>
+
+<tr>
+<td>🗄️ Learn better database design</td>
+</tr>
+
+<tr>
+<td>☁️ Deploy real-world projects</td>
+</tr>
+
+</table>
+
+<p align="center">
+<code>Learn → Build → Ship → Improve</code>
+</p>
 
 </td>
 
@@ -501,6 +497,8 @@ Deploy real-world projects
 
 <img src="https://img.shields.io/github/followers/abhishekyadav77?style=for-the-badge&logo=github&label=FOLLOWERS" />
 
+&nbsp;&nbsp;
+
 <img src="https://img.shields.io/github/stars/abhishekyadav77?style=for-the-badge&logo=github&label=STARS" />
 
 </p>
@@ -519,14 +517,14 @@ Deploy real-world projects
 </p>
 
 <p align="center">
-  <sub>Every contribution tells a part of the journey.</sub>
+  <strong>Every contribution tells a part of the journey.</strong>
 </p>
 
 ---
 
 # 🧠 Developer Philosophy
 
-<table>
+<table align="center">
 <tr>
 
 <td width="55%" valign="top">
