@@ -1,15 +1,17 @@
 <h1 align="center">👋 Hey, I'm Abhishek Kumar Yadav</h1>
 
 <p align="center">
-  <strong>B.Tech CSE</strong> &nbsp;•&nbsp;
-  <strong>Full-Stack Developer</strong> &nbsp;•&nbsp;
-  <strong>MERN Stack</strong>
+  <strong>B.Tech CSE</strong>
+  &nbsp;•&nbsp;
+  <strong>Full-Stack Developer</strong>
+  &nbsp;•&nbsp;
+  <strong>MERN Stack Developer</strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+real-world+web+applications;Turning+ideas+into+working+products;MERN+Stack+%7C+Java+%7C+Backend;Learning+by+building+and+shipping"
-    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+real-world+web+applications;Turning+ideas+into+working+products;MERN+Stack+%7C+Java+%7C+Backend;Learning+by+building+and+shipping;Always+learning.+Always+building."
+    alt="Typing Animation"
   />
 </p>
 
@@ -29,40 +31,37 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" />
+  <img
+    src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"
+    alt="Profile Views"
+  />
 </p>
 
 <br>
 
 <table align="center">
 <tr>
+
 <td align="center" width="180">
-
-### 🎓
-**B.Tech CSE**
-
+<h2>🎓</h2>
+<strong>B.Tech CSE</strong>
 </td>
 
 <td align="center" width="180">
-
-### 💻
-**Full-Stack**
-
+<h2>💻</h2>
+<strong>Full-Stack</strong>
 </td>
 
 <td align="center" width="180">
-
-### ⚛️
-**MERN Stack**
-
+<h2>⚛️</h2>
+<strong>MERN Stack</strong>
 </td>
 
 <td align="center" width="180">
-
-### 🚀
-**Building**
-
+<h2>🚀</h2>
+<strong>Building</strong>
 </td>
+
 </tr>
 </table>
 
@@ -70,56 +69,87 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 <table>
 <tr>
+
 <td width="58%" valign="top">
 
 ### Hello there! 👋
 
-I'm a **Computer Science & Engineering student** who enjoys turning ideas into practical software.
+I'm a **Computer Science & Engineering student** interested in building practical software and solving real-world problems through technology.
 
-My main focus is **full-stack web development**, especially building applications where the frontend, backend, database and deployment work together as one system.
+My main focus is **full-stack web development**, where I work across the frontend, backend, database and deployment layers.
 
-I learn best by **building real projects, solving problems, debugging things that break, and improving the solution**.
+I learn by **building projects, debugging problems, understanding how things work and continuously improving my solutions.**
 
-<br>
-
-**Currently focused on:**
+### What I work with
 
 - ⚛️ MERN Stack Development
 - 🖥️ Backend & REST APIs
 - 🗄️ Database-driven applications
-- ☕ Java & programming fundamentals
-- ☁️ Deployment & real-world development
-- 🌱 Continuous learning
+- ☕ Java & programming
+- 🌐 Web technologies
+- ☁️ Deployment & development tools
 
 </td>
 
 <td width="42%" valign="top">
 
-```text
-┌────────────────────────────┐
-│       DEVELOPER CARD       │
-├────────────────────────────┤
-│                            │
-│  🎓  B.Tech CSE            │
-│                            │
-│  💻  Full-Stack Developer  │
-│                            │
-│  ⚛️  MERN Stack             │
-│                            │
-│  ☕  Java                   │
-│                            │
-│  🛠️  Real Projects         │
-│                            │
-│  🚀  Always Building       │
-│                            │
-└────────────────────────────┘
-```
+<h3 align="center">⚡ Developer Snapshot</h3>
+
+<br>
+
+<table>
+<tr>
+<td align="center">
+
+💻<br>
+<strong>Full-Stack Development</strong>
 
 </td>
+</tr>
+
+<tr>
+<td align="center">
+
+⚛️<br>
+<strong>MERN Applications</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🔗<br>
+<strong>REST APIs</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🗄️<br>
+<strong>Database Systems</strong>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+🚀<br>
+<strong>Project Deployment</strong>
+
+</td>
+</tr>
+</table>
+
+</td>
+
 </tr>
 </table>
 
@@ -129,7 +159,8 @@ I learn best by **building real projects, solving problems, debugging things tha
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="55%" valign="top">
 
 ### 💻 Languages
 
@@ -143,10 +174,6 @@ I learn best by **building real projects, solving problems, debugging things tha
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
 ### ⚙️ Backend
 
 <p>
@@ -159,12 +186,6 @@ I learn best by **building real projects, solving problems, debugging things tha
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
 </p>
 
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-
 ### 🔧 Tools & Platforms
 
 <p>
@@ -172,6 +193,87 @@ I learn best by **building real projects, solving problems, debugging things tha
 </p>
 
 </td>
+
+<td width="45%" valign="top">
+
+<h3 align="center">🧩 What I Build</h3>
+
+<br>
+
+<table>
+
+<tr>
+<td align="center">
+
+### 🌐 Web Applications
+
+Responsive and practical web experiences.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚛️ Full-Stack Apps
+
+Frontend + Backend + Database.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🔗 REST APIs
+
+Authentication, business logic & data handling.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🗄️ Database Systems
+
+MongoDB, MySQL & SQLite applications.
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ☁️ Deployment
+
+Turning projects into accessible applications.
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<h3 align="center">🚀 Development Flow</h3>
+
+<p align="center">
+
+<code>Frontend</code>
+<br>↓<br>
+<code>Backend</code>
+<br>↓<br>
+<code>Database</code>
+<br>↓<br>
+<code>API</code>
+<br>↓<br>
+<code>Deployment</code>
+
+</p>
+
+</td>
+
 </tr>
 </table>
 
@@ -190,10 +292,6 @@ I learn best by **building real projects, solving problems, debugging things tha
 <strong>Online Pharmacy Management System</strong>
 </p>
 
-<p>
-A full-stack pharmacy management application built with the <strong>MERN stack</strong>.
-</p>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -203,7 +301,9 @@ A full-stack pharmacy management application built with the <strong>MERN stack</
 
 </p>
 
-### Highlights
+A full-stack pharmacy management application built using the **MERN stack**.
+
+### Features
 
 - 🔐 Authentication & authorization
 - 💊 Medicine management
@@ -230,10 +330,6 @@ A full-stack pharmacy management application built with the <strong>MERN stack</
 <strong>Task Management Application</strong>
 </p>
 
-<p>
-A lightweight and responsive web application for organizing everyday tasks.
-</p>
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -242,14 +338,16 @@ A lightweight and responsive web application for organizing everyday tasks.
 
 </p>
 
-### Highlights
+A lightweight and responsive application for managing everyday tasks.
+
+### Features
 
 - ➕ Add tasks
-- ✔️ Complete tasks
+- ✔️ Mark tasks completed
 - 🗑️ Delete tasks
 - 📋 Manage daily activities
 - 📱 Responsive interface
-- ⚡ Lightweight UI
+- ⚡ Simple and lightweight UI
 
 <p align="center">
 <a href="https://github.com/abhishekyadav77">
@@ -264,69 +362,89 @@ A lightweight and responsive web application for organizing everyday tasks.
 
 ---
 
-# 🧭 How I Build
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/💡%20IDEA-1F6FEB?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/📋%20PLAN-238636?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/💻%20BUILD-8957E5?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/🐛%20DEBUG-DA3633?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/☁️%20DEPLOY-0969DA?style=for-the-badge" />
-&nbsp;→&nbsp;
-<img src="https://img.shields.io/badge/📈%20IMPROVE-8250DF?style=for-the-badge" />
-
-</p>
-
-<br>
+# 🧭 Development Journey
 
 <table align="center">
 <tr>
-<td align="center">
 
-**01**<br>
-💡<br>
-**Think**
+<td align="center" width="150">
 
-</td>
-<td>→</td>
-<td align="center">
-
-**02**<br>
-💻<br>
-**Build**
+### 01
+<br>
+💡
+<br>
+<strong>Idea</strong>
 
 </td>
-<td>→</td>
-<td align="center">
 
-**03**<br>
-🐛<br>
-**Debug**
+<td align="center">→</td>
 
-</td>
-<td>→</td>
-<td align="center">
+<td align="center" width="150">
 
-**04**<br>
-🚀<br>
-**Deploy**
+### 02
+<br>
+📋
+<br>
+<strong>Plan</strong>
 
 </td>
-<td>→</td>
-<td align="center">
 
-**05**<br>
-📈<br>
-**Improve**
+<td align="center">→</td>
+
+<td align="center" width="150">
+
+### 03
+<br>
+💻
+<br>
+<strong>Build</strong>
 
 </td>
+
+<td align="center">→</td>
+
+<td align="center" width="150">
+
+### 04
+<br>
+🐛
+<br>
+<strong>Debug</strong>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="150">
+
+### 05
+<br>
+🚀
+<br>
+<strong>Deploy</strong>
+
+</td>
+
+<td align="center">→</td>
+
+<td align="center" width="150">
+
+### 06
+<br>
+📈
+<br>
+<strong>Improve</strong>
+
+</td>
+
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+<strong>Build → Learn → Debug → Improve → Repeat 🔁</strong>
+</p>
 
 ---
 
@@ -335,7 +453,7 @@ A lightweight and responsive web application for organizing everyday tasks.
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### ⚛️ MERN
 
@@ -346,7 +464,7 @@ MongoDB
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 🖥️ Backend
 
@@ -356,11 +474,11 @@ Database Design
 
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ☕ Programming
+### ☕ Java
 
-Java  
+Programming  
 Problem Solving  
 Clean Code
 
@@ -371,34 +489,18 @@ Clean Code
 
 ---
 
-# 🎯 Where I'm Heading
+# 🎯 Goals
 
 <p align="center">
 
-```text
-                 FULL-STACK DEVELOPER
-                         │
-          ┌──────────────┼──────────────┐
-          │              │              │
-       Frontend       Backend        Database
-          │              │              │
-        React       Node/Express     MongoDB
-          │              │              │
-          └──────────────┼──────────────┘
-                         │
-                   Real Projects
-                         │
-                      Deploy
-                         │
-                      Improve
-                         │
-                         🚀
-```
+| Focus | Direction |
+| :--- | :--- |
+| 💻 Development | Build practical and scalable applications |
+| ⚛️ Full Stack | Strengthen MERN development |
+| 🖥️ Backend | Improve APIs, authentication & architecture |
+| ☁️ Deployment | Build and ship production-ready projects |
+| 📚 Learning | Keep improving through real-world development |
 
-</p>
-
-<p align="center">
-<strong>My goal is to become a strong software developer by combining practical development experience with solid programming fundamentals.</strong>
 </p>
 
 ---
@@ -406,26 +508,25 @@ Clean Code
 # 📊 GitHub Activity
 
 <p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=abhishekyadav77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  height="175"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekyadav77&layout=compact&theme=tokyonight&hide_border=true"
-  height="175"
-/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=abhishekyadav77&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=abhishekyadav77&theme=tokyonight&hide_border=true"
-  height="180"
-/>
-
+  <img
+    src="https://img.shields.io/github/followers/abhishekyadav77?style=for-the-badge&logo=github&label=FOLLOWERS"
+    alt="GitHub Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/abhishekyadav77?style=for-the-badge&logo=github&label=TOTAL%20STARS"
+    alt="GitHub Stars"
+  />
+  <img
+    src="https://img.shields.io/github/repo-size/abhishekyadav77/abhishekyadav77?style=for-the-badge&label=PROFILE%20REPO"
+    alt="Profile Repository"
+  />
 </p>
 
 ---
@@ -452,15 +553,13 @@ Clean Code
 <table>
 <tr>
 
-<td width="55%" valign="middle">
+<td width="55%" valign="top">
 
 ### Build → Learn → Improve
 
-I don't believe in waiting until everything is perfect before building.
+I believe the best way to learn software development is by actually building things.
 
-I learn by creating things, facing problems, understanding why they happen, and improving the solution.
-
-<br>
+Projects teach you how to deal with bugs, design decisions, APIs, databases, deployment and all the unexpected problems that tutorials cannot fully prepare you for.
 
 > **Build it. Break it. Understand it. Improve it.**
 
@@ -469,19 +568,19 @@ I learn by creating things, facing problems, understanding why they happen, and 
 <td width="45%" align="center">
 
 ```text
-BUILD
-  ↓
-LEARN
-  ↓
-BREAK
-  ↓
-FIX
-  ↓
-UNDERSTAND
-  ↓
-IMPROVE
-  ↓
-REPEAT 🔁
+       BUILD
+         ↓
+       LEARN
+         ↓
+       BREAK
+         ↓
+        FIX
+         ↓
+    UNDERSTAND
+         ↓
+      IMPROVE
+         ↓
+      REPEAT 🔁
 ```
 
 </td>
@@ -503,13 +602,15 @@ REPEAT 🔁
 
 <a href="./Abhishek_Kumar_Yadav_Resume.pdf">
 
-<img src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+<img
+src="https://img.shields.io/badge/📄%20DOWNLOAD%20RESUME-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"
+/>
 
 </a>
 
 <br><br>
 
-<sub>Latest resume • Education • Projects • Skills</sub>
+<sub>Education • Projects • Skills • Development</sub>
 
 </td>
 </tr>
@@ -522,8 +623,8 @@ REPEAT 🔁
 <p align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"
-  alt="Profile Views"
+src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge"
+alt="Profile Views"
 />
 
 </p>
@@ -562,9 +663,11 @@ REPEAT 🔁
 
 </p>
 
+<br>
+
 <p align="center">
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"
-  width="100%"
-/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7C3AED&height=120&section=footer"
+    width="100%"
+  />
 </p>
