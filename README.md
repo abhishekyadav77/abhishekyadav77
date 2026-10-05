@@ -137,27 +137,28 @@ prescriptions and orders with authentication and admin functionality.
 
 <td width="50%" valign="top">
 
-<h3>✅ To-Do List</h3>
+<h3>👤 Face Identification</h3>
 
-<p><b>Task Management Application</b></p>
+<p><b>Employee Identification & Attendance System</b></p>
 
 <p>
-A simple and responsive web application for organizing daily tasks
-and managing personal activities.
+A full-stack face recognition application for identifying employees
+and managing attendance through a camera-based system.
 </p>
 
-<p><b>Tech:</b> HTML · CSS · JavaScript</p>
+<p><b>Tech:</b> React · Flask · OpenCV · Python · face-recognition</p>
 
 <p>
-➕ Add Tasks<br>
-✅ Mark Tasks Completed<br>
-🗑️ Delete Tasks<br>
-📋 All / Active / Completed<br>
-📱 Responsive Interface
+📷 Face Enrollment<br>
+👤 Employee Identification<br>
+🕐 Attendance Management<br>
+🔍 Face Recognition<br>
+📸 Camera-Based Recognition<br>
+🔗 React–Flask API Integration
 </p>
 
 <p>
-<a href="https://to-do-list-beige-kappa.vercel.app/">
+<a href="https://face-identification-software-dafo.onrender.com/">
 <img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 </p>
