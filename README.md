@@ -261,15 +261,6 @@ and managing attendance through a camera-based system.
 
 ---
 
-<h2 align="center">📄 Resume</h2>
-
-<p align="center">
-  <a href="./Abhishek_Kumar_Yadav_Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-58A6FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
-</p>
-
----
 
 <h2 align="center">🤝 Let's Connect</h2>
 
@@ -280,7 +271,7 @@ and managing attendance through a camera-based system.
   <a href="https://www.linkedin.com/in/abhishek-yadav-mzp/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://abhishekyadav77.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="mailto:abhishekyadavwork98@gmail.com">
