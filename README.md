@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/abhishek-yadav-mzp/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL](https://abhishekyadav77.github.io/Portfolio/)">
+  <a href="(https://abhishekyadav77.github.io/Portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
   </a>
   <a href="mailto:abhishekyadavwork98@gmail.com">
