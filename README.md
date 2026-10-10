@@ -18,7 +18,7 @@
   <a href="https://abhishekyadav77.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white"/>
   </a>
-  <a href="mailto:abhishekyadavwork98@gmail.com">
+  <a href="mailto:yadavvikky012@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   <a href="./Abhishek_Kumar_Yadav_Resume.pdf">
@@ -217,13 +217,13 @@ and managing attendance through a camera-based system.
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/abhishek_yadav_12/">
+  <a href="https://leetcode.com/u/abhishekyadav77/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhishek_yadav_12?theme=dark&font=Karma&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/abhishekyadav77?theme=dark&font=Karma&ext=heatmap" />
 </p>
 
 ---
