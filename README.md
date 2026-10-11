@@ -26,9 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekyadav77&label=Profile%20Views&color=58A6FF&style=flat-square"/>
-</p>
 
 ---
 
